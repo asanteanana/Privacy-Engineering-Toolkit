@@ -4,6 +4,6 @@ The Privacy Engineering Toolkit is a structured, open-source resource for anyone
 
 ## Introduction to Privacy Engineering  
 
-Privacy engineering is an emerging field of engineering which aims to provide methodologies, tools, and techniques to ensure systems provide acceptable levels of privacy. 
+Privacy engineering is an emerging field of engineering which aims to provide methodologies, tools, and techniques to ensure systems provide acceptable levels of privacy.
 
 
